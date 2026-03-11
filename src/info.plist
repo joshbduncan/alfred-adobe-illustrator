@@ -921,7 +921,7 @@ Select **Update Commands** from the `ai` menu at any time to fetch the latest me
 		</dict>
 	</array>
 	<key>version</key>
-	<string></string>
+	<string>1.0.0</string>
 	<key>webaddress</key>
 	<string>https://joshbduncan.com</string>
 </dict>
