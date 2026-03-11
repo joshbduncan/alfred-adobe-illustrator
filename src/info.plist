@@ -219,7 +219,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Adobe Illustrator</string>
+	<string>Adobe Illustrator Command Palette</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -743,9 +743,9 @@ EOF</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string># Alfred Adobe Illustrator
+	<string># Alfred Adobe Illustrator Command Palette
 
-Quickly access menu commands, tools, and more directly from Alfred.
+Quickly access Adobe Illustrator menu commands, tools, and more directly from Alfred.
 
 ## Features
 
@@ -921,7 +921,7 @@ Select **Update Commands** from the `ai` menu at any time to fetch the latest me
 		</dict>
 	</array>
 	<key>version</key>
-	<string></string>
+	<string>1.0.0</string>
 	<key>webaddress</key>
 	<string>https://joshbduncan.com</string>
 </dict>

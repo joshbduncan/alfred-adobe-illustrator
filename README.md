@@ -1,6 +1,6 @@
-# Alfred Adobe Illustrator
+# Alfred Adobe Illustrator Command Palette
 
-Quickly access menu commands, tools, and more directly from Alfred.
+Quickly access Adobe Illustrator menu commands, tools, and more directly from Alfred.
 
 ## Features
 
