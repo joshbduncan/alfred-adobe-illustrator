@@ -1,0 +1,13 @@
+[project]
+name = "alfred-adobe-illustrator"
+version = "1.0.0"
+authors = [{ name = "Josh Duncan", email = "joshbduncan@gmail.com" }]
+description = "Quickly access menu commands, tools, and more."
+requires-python = ">=3.12"
+dependencies = ["alfred-results"]
+
+[dependency-groups]
+dev = ["pre-commit>=4.5.1", "ruff>=0.15.5", "ty>=0.0.21"]
+
+[tool.uv.sources]
+alfred-results = { path = "../alfred-results", editable = true }
