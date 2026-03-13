@@ -2,6 +2,8 @@
 
 Quickly access Adobe Illustrator menu commands, tools, and more directly from Alfred.
 
+![screenshot.png](screenshot.png)
+
 ## Features
 
 - Menu Commands
